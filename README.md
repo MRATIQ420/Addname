@@ -3,10 +3,10 @@
 
 Installation Step :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/MRATIQ420/Addname
 
 
-2) cd Termux-Banner
+2) cd Addname
 
 
 3) chmod +x requirement.sh
@@ -27,3 +27,4 @@ Uninstallation Step : (Remove Logo From Termux)
 1) bash remove.sh
 
 2) Done !!!
+
